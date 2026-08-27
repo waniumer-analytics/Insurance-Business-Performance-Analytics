@@ -1,7 +1,8 @@
-                                                               # Insurance-Business-Performance-Analytics
+                                                               ## Insurance-Business-Performance-Analytics
+                                                               
 An end-to-end Power BI business intelligence project analyzing insurance revenue, customer growth, sales channels, age segments, cities, and policy performance to identify business trends and actionable recommendations.
 
-##  Business Objectives
+#  Business Objectives
 
 The dashboard was designed to answer key business questions:
 
@@ -13,7 +14,7 @@ The dashboard was designed to answer key business questions:
 6. What factors should management investigate when performance declines?
 7. Where are the opportunities for customer retention and growth?
 
-## Tools & Technologies
+# Tools & Technologies
 
 1. Power BI 
 2. Power Query
@@ -24,7 +25,9 @@ The dashboard was designed to answer key business questions:
 7. KPI Analysis
 8. Customer Segmentation
 
-## Dashboard Structure
+                                                                 ## Dashboard Structure
+
+   
 
 # Executive View
 
@@ -51,9 +54,7 @@ The dashboard was designed to answer key business questions:
 
 # Author
 
-Umar Wani
-
- # Data Analyst | Business Intelligence | Power BI
+Umar Wani       Data Analyst | Business Intelligence | Power BI
 
 
 
