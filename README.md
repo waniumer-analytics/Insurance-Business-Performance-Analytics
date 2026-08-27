@@ -49,7 +49,7 @@ The dashboard was designed to answer key business questions:
 
 # Live Power Bi Dashboard:-  https://app.powerbi.com/groups/me/reports/9a86184a-e7a0-4d4e-ab35-6481a952c3f0/a01740025f485036ff8f?experience=power-bi  
 
-# LinkedIN:- 
+# LinkedIN:- https://www.linkedin.com/posts/waniumer-analytics_codebasicsvirtualinternship-powerbi-dataanalytics-share-7498625605337493504-uDOI/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNS0HwB-OAdiVBbiM-Z0IdF32qvthi_XwE 
 
 
 # Author
