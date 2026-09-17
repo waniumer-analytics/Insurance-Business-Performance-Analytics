@@ -1,4 +1,4 @@
-                                                               ## Insurance-Business-Performance-Analytics
+# Insurance-Business-Performance-Analytics
                                                                
 An end-to-end Power BI business intelligence project analyzing insurance revenue, customer growth, sales channels, age segments, cities, and policy performance to identify business trends and actionable recommendations.
 
@@ -25,21 +25,19 @@ The dashboard was designed to answer key business questions:
 7. KPI Analysis
 8. Customer Segmentation
 
-                                                                 ## Dashboard Structure
+# Dashboard Structure
 
-   
-
-# Executive View
+                                                        Executive View
 
 <img width="1372" height="774" alt="Screenshot 2026-08-27 102225" src="https://github.com/user-attachments/assets/843ad1cf-05bd-4d09-b09b-64342ac3651b" />
 
 
-# Sales Mode
+                                                        Sales Mode
 
 <img width="1380" height="776" alt="Screenshot 2026-08-27 102244" src="https://github.com/user-attachments/assets/21dd07e4-5ec0-45cb-a671-386005edae13" />
 
 
-# Age Group Analysis
+                                                        Age Group Analysis
 
 <img width="1377" height="775" alt="Screenshot 2026-08-27 102259" src="https://github.com/user-attachments/assets/723a7b64-e152-469b-a969-5063a38d8798" />
 
