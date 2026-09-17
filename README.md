@@ -45,11 +45,17 @@ The dashboard was designed to answer key business questions:
 
 
 
-# Presentation Link :-   https://youtu.be/JbkadtXlWZc     
+# Presentation Link :-  
 
-# Live Power Bi Dashboard:-  https://app.powerbi.com/groups/me/reports/9a86184a-e7a0-4d4e-ab35-6481a952c3f0/a01740025f485036ff8f?experience=power-bi  
+https://youtu.be/JbkadtXlWZc     
 
-# LinkedIN:- https://www.linkedin.com/posts/waniumer-analytics_codebasicsvirtualinternship-powerbi-dataanalytics-share-7498625605337493504-uDOI/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNS0HwB-OAdiVBbiM-Z0IdF32qvthi_XwE 
+# Live Power Bi Dashboard:-  
+
+https://app.powerbi.com/view?r=eyJrIjoiYzFjMGQ0ZGQtNTk3NC00MmQ5LTgxZmEtNDE0YWMwZTllNDY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+# LinkedIN:- 
+
+https://www.linkedin.com/posts/waniumer-analytics_codebasicsvirtualinternship-powerbi-dataanalytics-share-7498625605337493504-uDOI/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNS0HwB-OAdiVBbiM-Z0IdF32qvthi_XwE 
 
 
 # Author
